@@ -9,12 +9,12 @@ sidebar:
 
     # Profile information
     name: Rushin Gindra
-    tagline: Doctoral Researcher 
+    tagline: Doctoral Researcher | Painter | Mountain Bike rider
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rushin.gindra@helmholtz-munich.de
-    phone: 049 162 3762 850
+    phone: 
     timezone: Germany/Munich # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: # https://example.com/ Include the full website URL, including "http://" or "https://".
