@@ -84,7 +84,7 @@ experiences:
       - role: Doctoral Researcher
         time: 2022 - Present
         company: Helmholtz Munich & TUM, Germany
-        details: 
+        details: |
             - Image integrated tools for Spatial Transcriptomics analysis
             - Spatial-omics, Self-supervised learning, Multi-modal learning
       - role: Bioinformatics Analyst
@@ -96,20 +96,20 @@ experiences:
       - role: Research Assistant, MS Thesis
         time: 2019 - 2020
         company: Center for computational biomedicine, Rutgers University, USA
-        details: 
+        details: |
             - Unsupervised shared GANs, Domain Adaptation
             - Atrous convolutions, Multi-scale convolutions for cardiac segmentation
       - role: Research Intern
         time: 2017
         company: Srujana Innovation Lab, L. V. Prasad Eye Institute
-        details: 
+        details: |
             - Fractal analysis based retinal vessel density quantification
             - Clinical validation focused statistical correlations.
 
 projects:
     title: Projects
     intro: >
-      Ask me about the projects on the social media platforms. I am most reponsive on twitter or linkedin
+      Ask me about the projects. I am most reponsive on twitter or linkedin
     assignments:
       - title: SpatialCLIP
         link: "#hook"
