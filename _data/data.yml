@@ -67,11 +67,11 @@ education:
       - degree: Doctoral Researcher, Experimental Medicine
         university: Technische Universität München (TUM), Germany
         time: 2022 - Present
-        details: Thesis: Integrating spatial gene expression and pancreatic tumour morphology to predict tumour subtypes
+        details: Thesis - Integrating spatial gene expression and pancreatic tumour morphology to predict tumour subtypes
       - degree: MSc in Computer Science
         university: Rutgers, The state university of New Jersey, USA
         time: 2018 - 2020
-        details: Coursework: Machine Learning, Computer Vision, Data Structures & Algorithms
+        details: Coursework - Machine Learning, Computer Vision, Data Structures & Algorithms
           Copy from CV
       - degree: B.Tech in Computer Engineering
         university: Mumbai University
@@ -136,7 +136,7 @@ publications:
     intro: |
       If you can't find an open-access link to the publication, ping me, I am happy to share the article. Happy reading :)
     papers:
-      - title: SpatialCLIP: Spatialomics based contrastive pre-training improves pathology foundation models on molecular subtyping tasks
+      - title: SpatialCLIP - Spatialomics based contrastive pre-training improves pathology foundation models on molecular subtyping tasks
         link: "#"
         authors: Rushin Gindra*, Mathias Nguyen*, Giovanni Palla, Manuel Tran, Dieter Saur, Tingying Peng
         conference: "in preparation"
